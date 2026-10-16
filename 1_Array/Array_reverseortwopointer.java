@@ -1,4 +1,4 @@
-public class Array_reverse{
+public class Array_reverseortwopointer{
     public static void main(String[] args){
         int revvalues [] = {23,98,34,42};
 
